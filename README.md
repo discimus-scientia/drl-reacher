@@ -53,5 +53,5 @@ from episodes 64 to 163 (inclusive) was greater than +30.
 
 ### How To Run The Code
 Run `python train.py` to start training or `python test.py` to observe how the trained agent performs with 
-the weights appended.
+the checkpoints included.
 
