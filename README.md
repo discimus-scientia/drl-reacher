@@ -34,7 +34,9 @@ from episodes 64 to 163 (inclusive) was greater than +30.
 ## How To Run
 ### Dependencies
 
-1. Download the environment from one of the links below. You need only select
+1. Install the dependencies as specified on the Udacity DRLND Github repository [here](https://github.com/udacity/deep-reinforcement-learning)
+
+2. Download the environment from one of the links below. You need only select
    the environment that matches your operating system:
 
     - **_Version: Twenty (20) Agents_**
@@ -47,8 +49,9 @@ from episodes 64 to 163 (inclusive) was greater than +30.
         - Windows (64-bit): [click
           here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher_Windows_x86_64.zip)
     
-2. Place the file in the DRLND GitHub repository, in the
-   `p2_continuous-control/` folder, and unzip (or decompress) the file.
+3. Place the file in the working folder, and unzip the file.
+
+4. Clone this repository.
 
 
 ### How To Run The Code
